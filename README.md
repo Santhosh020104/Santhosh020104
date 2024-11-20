@@ -13,18 +13,6 @@ Database: MongoDB, MySQL
 
 Languages: Java, Python
 
-🔭 What I’m Working On
-
-A React-based CRUD application with user management and seamless styling.
-
-Exploring Spring Boot for building robust, scalable back-end systems.
-
-🏆 Projects That Speak for Me
-
-eCommerce Platform: Designed and implemented using Java, focusing on efficiency and user experience.
-
-Front-End Gym Website: Built with React, featuring responsive design and dynamic components.
-
 🌱 Currently Exploring
 
 Enhancing my MERN stack capabilities by building real-world projects.
