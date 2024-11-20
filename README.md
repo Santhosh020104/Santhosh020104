@@ -4,6 +4,7 @@
 Passionate about crafting dynamic and scalable solutions using MERN stack and Java.
 
 💻 Tech Stack Expertise
+
 Front-End: React, JavaScript, HTML5, CSS3
 Back-End: Node.js, Express.js, Spring Boot
 Database: MongoDB, MySQL
